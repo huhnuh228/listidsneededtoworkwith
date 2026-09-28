@@ -1,12 +1,12 @@
 [
       {
         "uuid": "2080085236084322304",
-        "icon": "https://github.com/huhnuh228/listidsneededtoworkwith/blob/main/Fradsme.png",
+        "icon": "https://raw.githubusercontent.com/huhnuh228/listidsneededtoworkwith/main/Fradsme.png",
         "description": "Mod Developer"
       },
       {
         "uuid": "1963509347448651776",
-        "icon": "https://github.com/huhnuh228/listidsneededtoworkwith/blob/main/Frame.png",
+        "icon": "https://raw.githubusercontent.com/huhnuh228/listidsneededtoworkwith/main/Frame.png",
         "description": "First User"
-      },
+      }
 ]
